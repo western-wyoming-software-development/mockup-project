@@ -3,7 +3,7 @@
 	"customizations": {
 		"vscode": {
 			"extensions": [
-				"ms-vscode.live-server"
+				"george-alisson.html-preview-vscode"
 			]
 		}
 	}

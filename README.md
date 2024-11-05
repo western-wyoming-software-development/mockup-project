@@ -17,8 +17,8 @@ This project is brought to you in collaboration with <a href=https://www.glueops
 
 - After you complete your PRD and make your final commit, merge the working branch into the main branch. First, checkout main. Then, run `git merge your_branches_name`. This should work without a hitch, but read the terminal's output if anything goes wrong! Merging branches can get tricky really fast, and you will want to be careful you don't overwrite anything important. 
 
-- Finally, Replace the instructions in this README with your name and date of submission, as well as a quick overview of what and where your changes made to the PRD are. This final commit on the main branch will be how we know when you are ready for your assignment to be graded.
+- Finally, Replace the instructions in this README with your name and date of submission, as well as a quick overview of what and where your changes made to the PRD are. This final commit on the main branch will be how we know when you finished your assignment. Remember to submit the assignment on Canvas with a message to let us know you are ready for your project to be graded.
 
 ## Conclusion
 <img style="width:255px;height:255px;" src="https://www.glueops.dev/wp-content/uploads/2024/01/GlueOps-Logo-Icon-Thicker-FonTrimt-scaled.webp" alt="glueops logo">
-<a href=https://www.glueops.dev/>GlueOps</a> provides a full GitOps-driven workflow for deploying applications in production and nonprod environments. We are very fortunate to have @venkatamutyala and @fernandoataoldotcom from GlueOps help us build this project. Hopefully, this assignment is a special treat because it is based on what these experts think beginners should know. 
+<a href=https://www.glueops.dev/>GlueOps</a> provides a full GitOps-driven workflow for deploying applications in production and nonprod environments. We are very fortunate to have <a href=https://github.com/venkatamutyala/>Venkata Mutyala</a> and <a href=https://github.com/fernandoataoldotcom>Fernando Rodriguez</a> from GlueOps help us build this project. Hopefully, this assignment is a special treat because it is based on what these experts think beginners should know. 

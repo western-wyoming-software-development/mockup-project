@@ -2,7 +2,7 @@
 This project is brought to you in collaboration with <a href=https://www.glueops.dev/>GlueOps</a>! One of our industry partners, we reached out to them and asked for their help in designing a project that hits the most important skills of working in GitHub. You will copy this template repo, use a Codespace, make a working branch, edit a Product Requirements Document (PRD), and merge your changes back to the main branch. 
 
 ## Instructions
-- Find the 'Use this template' button on the GitHub page for this repo, and follow the steps it prompts you with to create your own repository from this template. Name it "Module-14-Mock-Project".
+- Find the 'Use this template' button on the GitHub page for this repo, and follow the steps it prompts you with to create your own repository from this template. Name it "Module-6-Mock-Project".
 
 - Use your GlueOps development environment. It's a smoothly configured Linux container that includes a fantastic HTML previewer extension and a good-looking terminal, amongst other handy features. Using containerized images of developer environments solves the "it works on my machine" problem and is massively becoming the norm in industry. You should be able to clone your created template repo alongside your semester repo.
   
